@@ -10,3 +10,6 @@ int main() {
     }
     return 0;
 }
+
+
+/*nested loop is: inner loop = across the row, outer loop = down the rows.*/
